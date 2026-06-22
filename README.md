@@ -72,7 +72,7 @@
 
 ## 🔹 Connect with Me 
 - 💻 GitHub: https://github.com/sandeepgaikwad-network
-
+- 👉 Linkedin: https://www.linkedin.com/in/sandeep-gaikwad-6437963b6?utm_source=share_via&utm_content=profile&utm_medium=member_ios
   
 ---
 
