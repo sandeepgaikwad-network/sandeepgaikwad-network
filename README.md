@@ -4,9 +4,9 @@
 
 ## 🔗 Connect with me
 
-https://img.shields.io/badge/LinkedIn-Sandeep%20Gaikwad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sandeep-gaikwad-6437963b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandeep%20Gaikwad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-gaikwad-6437963b6)
 
-https://img.shields.io/badge/GitHub-Sandeep%20Gaikwad-black?style=for-the-badge&logo=github&logoColor=white](https://github.com/sandeepgaikwad-network)
+[![GitHub](https://img.shields.io/badge/GitHub-Sandeep%20Gaikwad-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeepgaikwad-network)
 
 ---
 
