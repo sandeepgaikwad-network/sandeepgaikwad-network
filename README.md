@@ -2,6 +2,12 @@
 
 🚀 **Cloud & Network Engineer | Azure Networking | CCNA | Automation Enthusiast**
 
+## 🔗 Connect with me
+
+https://img.shields.io/badge/LinkedIn-Sandeep%20Gaikwad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sandeep-gaikwad-6437963b6)
+
+https://img.shields.io/badge/GitHub-Sandeep%20Gaikwad-black?style=for-the-badge&logo=github&logoColor=white](https://github.com/sandeepgaikwad-network)
+
 ---
 
 ## 🔹 About Me  
@@ -61,20 +67,6 @@
 - Site-to-Site VPN Configuration  
 - Virtual WAN Routing  
 
----
-
-
-## 🔹 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepgaikwad-network&show_icons=true&theme=tokyonight)
-
----
-
-## 🔹 Connect with Me 
-- 💻 GitHub: https://github.com/sandeepgaikwad-network
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandeep%20Gaikwad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-gaikwad-6437963b6)
-  
 ---
 
 ## 🔹 Goals  
