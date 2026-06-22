@@ -8,7 +8,7 @@
 - 💼 Working in **Cloud & Network Operations**  
 - 🌐 Hands-on experience in **Azure Networking & Hybrid Connectivity**  
 - 🔐 Skilled in **Network Security (Cisco & Azure Firewall)**  
-- 🧪 Practicing **CCNA Labs using Cisco Packet Tracer**  
+- 🧪 Master in **CCNA Labs using Cisco Packet Tracer**  
 - ⚙️ Learning **Terraform & Infrastructure as Code (IaC)**  
 - 🚀 Passionate about **cloud automation & troubleshooting complex issues**
 
@@ -21,7 +21,7 @@
 - Virtual WAN (vWAN)  
 - Azure Firewall / NSG  
 - VPN Gateway & ExpressRoute  
-- Load Balancer / Application Gateway  
+- Load Balancer
 
 ### 🌐 Networking (CCNA)
 - Routing & Switching (OSPF, Static Routing)  
@@ -63,24 +63,21 @@
 
 ---
 
+
 ## 🔹 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepgaikwad-network&show_icons=true&theme=tokyonight)))))))))
 
+https://streak-stats.demolab.com/?user=sandeepgaikwad-network&theme=tokyonight
 ---
 
-## 🔹 Connect with Me  
-- 💼 LinkedIn: (Add your link)  
-- 💻 GitHub: https://github.com/YOUR_USERNAME  
+## 🔹 Connect with Me 
+- 💻 GitHub: https://github.com/sandeepgaikwad-network
 
+  
 ---
 
 ## 🔹 Goals  
 - ✅ Master Azure Networking Architectures  
 - ✅ Learn Advanced Terraform  
 - ✅ Build Real-world Projects  
-
----
-
-## ⚡ Fun Fact  
-> I enjoy troubleshooting complex network issues and turning them into simple solutions.
