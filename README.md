@@ -8,6 +8,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sandeep%20Gaikwad-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeepgaikwad-network)
 
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:sandeepgaikwad.network@gmail.com)
+
 ---
 
 ## 🔹 About Me  
