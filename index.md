@@ -2,8 +2,33 @@
   <img src="https://avatars.githubusercontent.com/u/295784588?v=4" width="250" height="250" style="border-radius:50%">
 </p>
  
----
+## 🚀 Skills
 
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" style="padding:15px; border:1px solid #ddd; border-radius:8px;">
+      🚀 <br><b>Cloud & Network Engineer</b>
+    </td>
+    <td align="center" style="padding:15px; border:1px solid #ddd; border-radius:8px;">
+      🌐 <br><b>Azure Networking</b>
+    </td>
+    <td align="center" style="padding:15px; border:1px solid #ddd; border-radius:8px;">
+      🎓 <br><b>CCNA</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:15px; border:1px solid #ddd; border-radius:8px;">
+      ⚙️ <br><b>Automation Enthusiast</b>
+    </td>
+    <td align="center" style="padding:15px; border:1px solid #ddd; border-radius:8px;">
+      💻 <br><b>Aspiring DevOps Engineer</b>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 🔗 Connect with me  
 
