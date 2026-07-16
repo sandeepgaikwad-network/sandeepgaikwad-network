@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <link rel="stylesheet" href="css/custom.css">
 
 <p align="center">
