@@ -156,3 +156,10 @@ I believe in documenting labs and projects clearly so others can learn and build
 ## 🚀 Closing
 My journey is about growth, learning, and sharing knowledge with the community.  
 Stay tuned for more labs, guides, and DevOps projects!
+
+---
+
+<div align="center" style="font-size:14px; color:gray; margin-top:40px;">
+  Project maintained by <b>sandeepgaikwad-network</b><br>
+  Hosted on GitHub Pages — Theme by <b>mattgraham</b>
+</div>
