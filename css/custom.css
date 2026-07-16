@@ -1,10 +1,11 @@
-/* Hide the GitHub button */
+/* Hide the GitHub button (class is fork in Midnight theme) */
 .fork {
   display: none !important;
 }
 
-/* Hide the project credits text */
-.page-header .project-tagline {
+/* Hide the project credits text (left + right) */
+.credits.left,
+.credits.right {
   display: none !important;
 }
 
