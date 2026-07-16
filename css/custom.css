@@ -1,0 +1,14 @@
+/* Hide the GitHub button */
+.github-button {
+  display: none !important;
+}
+
+/* Hide the project credits text */
+.page-header .project-tagline {
+  display: none !important;
+}
+
+/* Hide the default footer injected by the theme */
+.site-footer {
+  display: none !important;
+}
