@@ -1,6 +1,14 @@
-# 👋 Hi, I'm Sandeep Gaikwad  
+# 🌐 Sandeep Gaikwad 
 
-🚀 **Cloud & Network Engineer | Azure Networking | CCNA | Automation Enthusiast | Aspiring DevOps Engineer**  
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/295784588?v=4" width="250" height="250" style="border-radius:50%">
+</p>
+ 
+
+<p align="center">
+  🚀 **Cloud & Network Engineer** | 🌐 Azure Networking | 🎓 CCNA | ⚙️ Automation Enthusiast | 💻 Aspiring DevOps Engineer
+</p>
+
 
 ---
 
