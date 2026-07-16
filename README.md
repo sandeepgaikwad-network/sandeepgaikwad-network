@@ -12,6 +12,18 @@
 
 ---
 
+
+## 🔹 Featured Labs  
+- [IOS Backup Labs](IOS_Backup/)  
+- [IPv4 Routing Labs](IPv4_Routing/)  
+- [IPv6 Routing Labs](IPv6_Routing/)  
+- [NAT Labs](NAT/)  
+- [Router Security Labs](Router_Security/)  
+- [Switching Labs](Switching/)  
+
+
+---
+
 ## 🔹 About Me  
 - 💼 Working in **Cloud & Network Operations**  
 - 🌐 Hands-on experience in **Azure Networking & Hybrid Connectivity**  
