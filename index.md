@@ -6,7 +6,7 @@ layout: default
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/295784588?v=4" 
-       width="120" height="120" 
+       width="200" height="200" 
        style="border-radius:50%; margin:10px;">
 </p>
 
