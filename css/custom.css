@@ -38,3 +38,29 @@ body {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
+
+/* Remove ALL top spacing from theme wrappers */
+body,
+html {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+#header {
+  position: static !important;
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  min-height: 0 !important;
+}
+
+#main,
+.container,
+.site,
+.wrapper,
+.content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
