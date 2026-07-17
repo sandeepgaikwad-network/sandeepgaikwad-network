@@ -16,10 +16,10 @@
 
 /* Override theme header spacing and styling */
 #header {
-  position: static !important;
-  background: none !important;
-  border: none !important;
-  box-shadow: none !important;
+  position: static !important;   /* removes fixed positioning */
+  background: none !important;   /* removes background image/color */
+  border: none !important;       /* removes bottom border */
+  box-shadow: none !important;   /* removes shadow */
   margin: 0 !important;
   padding: 0 !important;
   min-height: 0 !important;
@@ -27,7 +27,14 @@
 
 /* Remove layout offsets */
 #main,
-.container {
+.container,
+body {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Extra safeguard: remove any top padding from site wrapper */
+.site {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
