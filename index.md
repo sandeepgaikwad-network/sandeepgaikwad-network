@@ -83,64 +83,37 @@ I’m passionate about building secure, scalable networks and cloud solutions. M
 - Wireshark / Packet Capture  
 - Git & GitHub  
 
----
-
-## 🌐 Networking Knowledge  
+--- 
 
 ### 🖥️ Operating Systems  
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
 ### 🌐 Networking Devices  
-![Cisco Router](https://img.shields.io/badge/Cisco-Router-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
-![Cisco Switches](https://img.shields.io/badge/Cisco-Switches-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
+![Cisco Router](https://img.shields.io/badge/Cisco-Router-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![Cisco Switches](https://img.shields.io/badge/Cisco-Switches-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
 
 ### 🔀 Routing Protocols  
-![BGP](https://img.shields.io/badge/BGP-0052CC?style=for-the-badge)  
-![EIGRP](https://img.shields.io/badge/EIGRP-FF6F00?style=for-the-badge)  
-![OSPF](https://img.shields.io/badge/OSPF-008000?style=for-the-badge)  
-![RIP](https://img.shields.io/badge/RIP-800000?style=for-the-badge)  
-![Static Routing](https://img.shields.io/badge/Static-Routing-808080?style=for-the-badge)  
+![BGP](https://img.shields.io/badge/BGP-0052CC?style=for-the-badge) ![EIGRP](https://img.shields.io/badge/EIGRP-FF6F00?style=for-the-badge) ![OSPF](https://img.shields.io/badge/OSPF-008000?style=for-the-badge) ![RIP](https://img.shields.io/badge/RIP-800000?style=for-the-badge) ![Static Routing](https://img.shields.io/badge/Static-Routing-808080?style=for-the-badge)  
 
 ### 🌍 WAN Protocols  
-![HDLC](https://img.shields.io/badge/HDLC-333333?style=for-the-badge)  
-![PPP](https://img.shields.io/badge/PPP-006699?style=for-the-badge)  
+![HDLC](https://img.shields.io/badge/HDLC-333333?style=for-the-badge) ![PPP](https://img.shields.io/badge/PPP-006699?style=for-the-badge)  
 
 ### 🔧 Switching  
-![VLANs](https://img.shields.io/badge/VLANs-FF1493?style=for-the-badge)  
-![Trunk](https://img.shields.io/badge/Trunk-FF8C00?style=for-the-badge)  
-![InterVLAN](https://img.shields.io/badge/InterVLAN-4682B4?style=for-the-badge)  
-![Port-Security](https://img.shields.io/badge/Port-Security-DC143C?style=for-the-badge)  
+![VLANs](https://img.shields.io/badge/VLANs-FF1493?style=for-the-badge) ![Trunk](https://img.shields.io/badge/Trunk-FF8C00?style=for-the-badge) ![InterVLAN](https://img.shields.io/badge/InterVLAN-4682B4?style=for-the-badge) ![Port-Security](https://img.shields.io/badge/Port-Security-DC143C?style=for-the-badge)  
 
 ### 🔗 Switching Protocols  
-![STP](https://img.shields.io/badge/STP-000080?style=for-the-badge)  
-![RSTP](https://img.shields.io/badge/RSTP-008080?style=for-the-badge)  
-![PVSTP](https://img.shields.io/badge/PVSTP-800080?style=for-the-badge)  
-![VTP](https://img.shields.io/badge/VTP-2E8B57?style=for-the-badge)  
-![DTP](https://img.shields.io/badge/DTP-DAA520?style=for-the-badge)  
-![CDP](https://img.shields.io/badge/CDP-708090?style=for-the-badge)  
+![STP](https://img.shields.io/badge/STP-000080?style=for-the-badge) ![RSTP](https://img.shields.io/badge/RSTP-008080?style=for-the-badge) ![PVSTP](https://img.shields.io/badge/PVSTP-800080?style=for-the-badge) ![VTP](https://img.shields.io/badge/VTP-2E8B57?style=for-the-badge) ![DTP](https://img.shields.io/badge/DTP-DAA520?style=for-the-badge) ![CDP](https://img.shields.io/badge/CDP-708090?style=for-the-badge)  
 
 ### 📡 Network Address Protocols  
-![NAT](https://img.shields.io/badge/NAT-FF4500?style=for-the-badge)  
-![PAT](https://img.shields.io/badge/PAT-32CD32?style=for-the-badge)  
+![NAT](https://img.shields.io/badge/NAT-FF4500?style=for-the-badge) ![PAT](https://img.shields.io/badge/PAT-32CD32?style=for-the-badge)  
 
 ### 🌐 IP Versions  
-![IPv4](https://img.shields.io/badge/IPv4-000000?style=for-the-badge)  
-![IPv6](https://img.shields.io/badge/IPv6-006400?style=for-the-badge)  
+![IPv4](https://img.shields.io/badge/IPv4-000000?style=for-the-badge) ![IPv6](https://img.shields.io/badge/IPv6-006400?style=for-the-badge)  
 
 ### ⚙️ Services  
-![Telnet](https://img.shields.io/badge/Telnet-2F4F4F?style=for-the-badge)  
-![DHCP](https://img.shields.io/badge/DHCP-FFD700?style=for-the-badge)  
-![DNS](https://img.shields.io/badge/DNS-4169E1?style=for-the-badge)  
-![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=ssh&logoColor=white)  
-![RDP](https://img.shields.io/badge/RDP-800000?style=for-the-badge)  
-![FTP](https://img.shields.io/badge/FTP-4682B4?style=for-the-badge)  
-![HTTP](https://img.shields.io/badge/HTTP-FF6347?style=for-the-badge)  
-![HTTPS](https://img.shields.io/badge/HTTPS-32CD32?style=for-the-badge)  
-![SMB](https://img.shields.io/badge/SMB-8B0000?style=for-the-badge)  
+![Telnet](https://img.shields.io/badge/Telnet-2F4F4F?style=for-the-badge) ![DHCP](https://img.shields.io/badge/DHCP-FFD700?style=for-the-badge) ![DNS](https://img.shields.io/badge/DNS-4169E1?style=for-the-badge) ![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=ssh&logoColor=white) ![RDP](https://img.shields.io/badge/RDP-800000?style=for-the-badge) ![FTP](https://img.shields.io/badge/FTP-4682B4?style=for-the-badge) ![HTTP](https://img.shields.io/badge/HTTP-FF6347?style=for-the-badge) ![HTTPS](https://img.shields.io/badge/HTTPS-32CD32?style=for-the-badge) ![SMB](https://img.shields.io/badge/SMB-8B0000?style=for-the-badge)  
 
 ### 🔐 Security  
-![VPN](https://img.shields.io/badge/VPN-0000CD?style=for-the-badge)  
-![ACL](https://img.shields.io/badge/ACL-FF69B4?style=for-the-badge)  
+![VPN](https://img.shields.io/badge/VPN-0000CD?style=for-the-badge) ![ACL](https://img.shields.io/badge/ACL-FF69B4?style=for-the-badge)  
 
 ---
 
