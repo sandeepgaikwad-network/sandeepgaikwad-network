@@ -69,3 +69,19 @@ html {
 #header {
   display: none !important;
 }
+
+/* Completely remove the header element */
+#header {
+  display: none !important;
+}
+
+/* Reset all wrapper spacing */
+.wrapper,
+.content,
+.site,
+#main,
+body,
+html {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
