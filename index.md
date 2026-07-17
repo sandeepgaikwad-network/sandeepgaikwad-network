@@ -88,8 +88,7 @@ I’m passionate about building secure, scalable networks and cloud solutions. M
 ## 🌐 Networking Knowledge  
 
 ### 🖥️ Operating Systems  
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
 ### 🌐 Networking Devices  
 ![Cisco Router](https://img.shields.io/badge/Cisco-Router-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
