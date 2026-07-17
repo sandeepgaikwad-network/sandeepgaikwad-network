@@ -19,7 +19,6 @@ layout: default
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandeep%20Gaikwad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-gaikwad-6437963b6)  
 [![GitHub](https://img.shields.io/badge/GitHub-Sandeep%20Gaikwad-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeepgaikwad-network)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:sandeepgaikwad.network@gmail.com)  
-[![GitHub Releases](https://img.shields.io/badge/GitHub-Releases-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeepgaikwad-network?tab=releases)  
 
 ---
 
@@ -81,7 +80,7 @@ I’m passionate about building secure, scalable networks and cloud solutions. M
 
 ## 📂 Featured Repositories
 - [Azure VM Deployment with Terraform](https://github.com/sandeepgaikwad-network/azure-vm-terraform)  
-- [CCNA Labs](https://github.com/sandeepgaikwad-network/ccna-labs)  
+- [CCNA Cisco Packet Tracer Labs](https://github.com/sandeepgaikwad-network/CiscoPacketTracerLabs.git)  
 
 ---
 
