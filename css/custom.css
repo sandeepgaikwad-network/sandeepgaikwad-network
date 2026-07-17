@@ -64,3 +64,8 @@ html {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
+
+/* Completely hide the header container */
+#header {
+  display: none !important;
+}
