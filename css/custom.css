@@ -14,9 +14,12 @@
   display: none !important;
 }
 
-/* Remove extra spacing from header container */
+/* Remove extra spacing from the theme header */
 #header {
   margin-top: 0 !important;
   padding-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
 }
+
 
