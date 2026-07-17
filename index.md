@@ -92,7 +92,7 @@ I’m passionate about building secure, scalable networks and cloud solutions. M
 ![Cisco Router](https://img.shields.io/badge/Cisco-Router-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![Cisco Switches](https://img.shields.io/badge/Cisco-Switches-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
 
 ### 🔀 Routing Protocols  
-![BGP](https://img.shields.io/badge/BGP-0052CC?style=for-the-badge) ![EIGRP](https://img.shields.io/badge/EIGRP-FF6F00?style=for-the-badge) ![OSPF](https://img.shields.io/badge/OSPF-008000?style=for-the-badge) ![RIP](https://img.shields.io/badge/RIP-800000?style=for-the-badge) ![Static Routing](https://img.shields.io/badge/Static-Routing-808080?style=for-the-badge)  
+![BGP](https://img.shields.io/badge/BGP-0052CC?style=for-the-badge) ![EIGRP](https://img.shields.io/badge/EIGRP-FF6F00?style=for-the-badge) ![OSPF](https://img.shields.io/badge/OSPF-008000?style=for-the-badge) ![RIP](https://img.shields.io/badge/RIP-800000?style=for-the-badge) ![Static-Routing](https://img.shields.io/badge/Static-Routing-808080?style=for-the-badge)  
 
 ### 🌍 WAN Protocols  
 ![HDLC](https://img.shields.io/badge/HDLC-333333?style=for-the-badge) ![PPP](https://img.shields.io/badge/PPP-006699?style=for-the-badge)  
