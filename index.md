@@ -24,10 +24,17 @@ layout: default
 
 ## 🔹 Career Journey  
 
-- 🎓 **Trainer at Zoom Technologies** — CCNA fundamentals  
-- 💼 **Azure Networking Engineer at L&T Mindtree** — hybrid connectivity projects  
-- 👨‍💼 **Technical Advisor** — led a team of 10 engineers  
-- 🚀 **Current Focus: Azure DevOps** — Terraform, CI/CD, automation  
+- 🎓 **Trainer at Zoom Technologies**  
+  I began my career as a trainer, teaching **Hardware and CCNA Routing/Switching fundamentals**. This role gave me the opportunity to mentor students, strengthen my networking foundation, and develop a passion for sharing knowledge.  
+
+- 💼 **Azure Networking Engineer at L&T Mindtree (LTM)**  
+  Transitioning into the cloud space, I worked extensively on **Azure Networking and Hybrid Connectivity projects**. Here I gained hands‑on experience with **VNets, VPN Gateways, ExpressRoute, and Azure Firewall**, building secure and scalable cloud environments.  
+
+- 👨‍💼 **Technical Advisor**  
+  I advanced into a technical advisory role, where I focused on solving complex networking and cloud challenges. This position allowed me to provide guidance, troubleshoot critical issues, and support engineers in adopting best practices for cloud and network operations.  
+
+- 🚀 **Current Focus: Azure DevOps**  
+  Today, my journey is centered on **Azure DevOps and automation**. I’m actively learning **Terraform, CI/CD pipelines, and Infrastructure as Code (IaC)** to bridge the gap between networking and DevOps, aiming to deliver automated, reliable, and modern cloud solutions.  
 
 ---
 
