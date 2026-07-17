@@ -4,7 +4,7 @@ layout: default
 
 <link rel="stylesheet" href="css/custom.css">
 
-<p align="center">
+<p align="left">
   <img src="https://avatars.githubusercontent.com/u/295784588?v=4" 
        width="200" height="200" 
        style="border-radius:50%; margin:10px;">
