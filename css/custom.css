@@ -34,3 +34,24 @@ h1 {
 p img {
   margin-top: 5px !important; /* small breathing space below name */
 }
+
+/* Remove top space caused by layout or fixed header */
+body {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+#header {
+  position: static !important;
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  min-height: 0 !important;
+}
+
+#main {
+  margin-top: 0 !important; /* removes layout offset */
+  padding-top: 0 !important;
+}
