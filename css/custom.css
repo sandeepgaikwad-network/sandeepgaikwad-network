@@ -14,12 +14,16 @@
   display: none !important;
 }
 
-/* Remove extra spacing from the theme header */
+/* Override theme header spacing */
 #header {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
+  position: static !important;   /* removes fixed positioning */
+  background: none !important;   /* removes background image/color */
+  border: none !important;       /* removes bottom border */
+  box-shadow: none !important;   /* removes shadow */
+  margin: 0 !important;
+  padding: 0 !important;
+  min-height: 0 !important;
 }
+
 
 
