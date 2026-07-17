@@ -14,17 +14,9 @@
   display: none !important;
 }
 
-/* Reset top spacing for header */
-body {
+/* Remove extra spacing from header container */
+#header {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
 
-h1 {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-p img {
-  margin-top: 0 !important;
-}
