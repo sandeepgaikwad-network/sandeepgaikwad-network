@@ -23,29 +23,45 @@ layout: default
 
 ---
 
-## 🔹 About Me  
-- 💼 Cloud & Network Operations  
-- 🌐 Azure Networking & Hybrid Connectivity  
-- 🔐 Network Security (Cisco & Azure Firewall)  
-- 🧪 CCNA Labs with Cisco Packet Tracer  
-- ⚙️ Learning Terraform & IaC  
-- 🚀 Passionate about automation & troubleshooting  
-- ✍️ Sharing knowledge via GitHub & LinkedIn  
-
----
-
 ## 🔹 Career Journey  
-- 🎓 Trainer at Zoom Technologies — CCNA fundamentals  
-- 💼 Azure Networking Engineer at L&T Mindtree  
-- 👨‍💼 Technical Advisor — led a team of 10 engineers  
-- 🚀 Current Focus: Azure DevOps (Terraform, CI/CD, automation)  
+
+- 🎓 **Trainer at Zoom Technologies** — CCNA fundamentals  
+- 💼 **Azure Networking Engineer at L&T Mindtree** — hybrid connectivity projects  
+- 👨‍💼 **Technical Advisor** — led a team of 10 engineers  
+- 🚀 **Current Focus: Azure DevOps** — Terraform, CI/CD, automation  
 
 ---
 
-## 🔹 Skills  
+## 🔹 About Me  
+I’m passionate about building secure, scalable networks and cloud solutions. My journey started with CCNA labs and has grown into Azure networking, DevOps, and automation. I love sharing knowledge through GitHub and LinkedIn to help others learn and grow.  
 
-### ☁️ Cloud (Azure)  
-- VNet, Firewall / NSG, VPN Gateway, ExpressRoute, Load Balancer  
+---
+
+## ☁️ Azure Networking & Cloud  
+
+### 🔹 Core Expertise  
+- Azure Virtual Network (VNet)  
+- VPN Gateway & ExpressRoute  
+- Load Balancer  
+- Azure Firewall / NSG  
+- Hybrid Connectivity  
+
+### 🔹 Labs & Projects  
+- Hub-Spoke Architecture  
+- Azure Firewall Setup  
+- Site-to-Site VPN Configuration  
+- Virtual WAN Routing  
+- Automated Azure VM Deployment with Terraform  
+
+### 🔹 Currently Learning  
+- Azure DevOps (CI/CD Pipelines)  
+- Kubernetes for Cloud Networking  
+- Terraform Advanced Modules  
+- Cloud Automation with PowerShell & Azure CLI  
+
+---
+
+## 🔹 Networking & Security Skills  
 
 ### 🌐 Networking (CCNA)  
 - Routing & Switching (OSPF, Static Routing)  
@@ -60,29 +76,6 @@ layout: default
 - Azure CLI / PowerShell  
 - Wireshark / Packet Capture  
 - Git & GitHub  
-
----
-
-## 🔹 Featured Work  
-
-### 📁 CCNA Labs  
-- VLAN & Inter-VLAN Routing  
-- OSPF Routing Scenarios  
-- NAT Configuration Labs  
-- ACL Security Implementations  
-
-### ☁️ Azure Networking Labs  
-- Hub-Spoke Architecture  
-- Azure Firewall Setup  
-- Site-to-Site VPN Configuration  
-- Virtual WAN Routing  
-
-### ⚙️ Terraform Projects  
-- Automated Azure VM Deployment  
-- Infrastructure Documentation in Markdown  
-- GitHub Releases with Version Tags  
-
-👉 *More labs coming soon…*  
 
 ---
 
@@ -101,21 +94,18 @@ layout: default
 
 ---
 
-## 📚 Currently Learning  
-
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-blue?style=for-the-badge&logo=githubactions&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white)  
-
----
-
 ## 🙏 Acknowledgments
 Thanks for visiting my profile and exploring my projects. I’m continuously learning and sharing knowledge — feel free to connect and collaborate!
 
 ---
 
-<div align="center" style="font-size:14px; color:gray; margin-top:40px; border-top:1px solid #ccc; padding-top:10px;">
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/295784588?v=4" 
+       width="100" height="100" 
+       style="border-radius:50%; margin-top:20px;">
+</p>
+
+<div align="center" style="font-size:14px; color:gray; margin-top:10px; border-top:1px solid #ccc; padding-top:10px;">
   Maintained by <b>Sandeep Gaikwad</b><br>
   Hosted on GitHub Pages — Theme by <b>mattgraham</b>
 </div>
