@@ -4,8 +4,6 @@ layout: default
 
 <link rel="stylesheet" href="css/custom.css">
 
-# Sandeep Gaikwad
-
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/295784588?v=4" 
        width="120" height="120" 
