@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sandeep Gaikwad  
 
-🚀 **Cloud & Network Engineer | Azure Networking | CCNA | Automation Enthusiast | Aspiring DevOps Engineer**  
+🚀 **Cloud & Network Engineer | Azure Networking | CCNA | Network Automation | DevOps**  
 
 ---
 
