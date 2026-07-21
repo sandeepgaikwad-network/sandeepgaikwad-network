@@ -12,19 +12,19 @@
 
 ---
 
+## 🔹 Featured Labs
 
-## 🔹 Featured Labs  
 - [IOS Backup Labs](IOS_Backup/)  
 - [IPv4 Routing Labs](IPv4_Routing/)  
-- [IPv6 Routing Labs](IPv6_Routing/)    
+- [IPv6 Routing Labs](IPv6_Routing/)
 - [NAT Labs](NAT/)  
 - [Router Security Labs](Router_Security/)  
 - [Switching Labs](Switching/)  
 
-
 ---
 
 ## 🔹 About Me  
+
 - 💼 Working in **Cloud & Network Operations**  
 - 🌐 Hands-on experience in **Azure Networking & Hybrid Connectivity**  
 - 🔐 Skilled in **Network Security (Cisco & Azure Firewall)**  
@@ -54,12 +54,14 @@
 ## 🔹 Skills  
 
 ### ☁️ Cloud (Azure)  
-- Azure Virtual Network (VNet)    
+
+- Azure Virtual Network (VNet)
 - Azure Firewall / NSG  
 - VPN Gateway & ExpressRoute  
 - Load Balancer  
 
 ### 🌐 Networking (CCNA)  
+
 - Routing & Switching (OSPF, Static Routing)  
 - NAT & ACLs  
 - VLANs & Inter-VLAN Routing  
@@ -67,11 +69,13 @@
 - Packet Tracer Lab Design  
 
 ### 🔐 Security  
+
 - Azure Firewall  
 - NVA (Network Virtual Appliance)  
 - NSG Rules & Traffic Filtering  
 
 ### ⚙️ Tools & Automation  
+
 - Terraform (Basics → Advanced in progress 🚀)  
 - Azure CLI / PowerShell  
 - Wireshark / Packet Capture  
@@ -82,6 +86,7 @@
 ## 🔹 Featured Projects  
 
 ### 📁 CCNA Labs (Packet Tracer)  
+
 - VLAN & Inter-VLAN Routing  
 - OSPF Routing Scenarios  
 - NAT Configuration Labs  
@@ -90,12 +95,14 @@
 👉 *More labs coming soon…*  
 
 ### ☁️ Azure Networking Labs  
+
 - Hub-Spoke Architecture  
 - Azure Firewall Setup  
 - Site-to-Site VPN Configuration  
 - Virtual WAN Routing  
 
 ### ⚙️ Terraform Projects  
+
 - Automated Azure VM Deployment  
 - Infrastructure Documentation in Markdown  
 - GitHub Releases with Version Tags  
@@ -103,6 +110,7 @@
 ---
 
 ## 🔹 Goals  
+
 - ✅ Master Azure Networking Architectures  
 - ✅ Learn Advanced Terraform  
 - ✅ Build Real-world Projects  
@@ -110,6 +118,7 @@
 - ✅ Transition into **Azure DevOps Engineer** role  
 
 ## 📂 Featured Repositories
+
 - [Azure VM Deployment with Terraform](https://github.com/sandeepgaikwad-network/azure-vm-terraform)
 - [CCNA Labs](https://github.com/sandeepgaikwad-network/ccna-labs)
 
@@ -118,26 +127,34 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![Cisco](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
-## 📚 Currently Learning  
+
+## 📚 Currently Learning
 
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-blue?style=for-the-badge&logo=githubactions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white)  
 
 ---
+
 ## 🌍 Community & Sharing  
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Networking-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![GitHub Releases](https://img.shields.io/badge/GitHub-Releases-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
+
 ## 🙏 Acknowledgments
+
 Thanks for visiting my profile and exploring my projects.  
 I’m continuously learning and sharing knowledge — feel free to connect and collaborate!
 
 ---
+
 ## ✍️ Author's Note
+
 This repository is maintained by **Sandeep Gaikwad**.  
 I believe in documenting labs and projects clearly so others can learn and build with confidence.
 
 ---
+
 ## 🚀 Closing
+
 My journey is about growth, learning, and sharing knowledge with the community.  
 Stay tuned for more labs, guides, and DevOps projects!
